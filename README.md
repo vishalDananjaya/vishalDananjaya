@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Dananjaya</h1>
-<h3 align="center">A passionate frontend developer & UI/UX Designer.</h3>
+<h3 align="center">A passionate Frontend developer & UI/UX Designer.</h3>
 
 - 🌱 I’m currently learning **BICT (Hons) University of Ruhuna**
 
