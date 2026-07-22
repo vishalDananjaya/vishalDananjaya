@@ -5,24 +5,16 @@
 I'm a software engineer, web developer, entrepreneur, and UI/UX Designer passionate about building digital products and learning new technologies.
 
 <p align="left">
-  <a href="[https://youtube.com/@YOUR_CHANNEL](https://youtube.com/@vishalproductionsonline?si=njeeX-jqSAdWMUzK)">
-    <img alt="YouTube Subscribers" title="Subscribe on YouTube"
-      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCvAiIX_pUOkFi1A2c0tGjxA?color=%23E05D44&labelColor=CE4630&style=for-the-badge&logo=video&label=SUBSCRIBE"/>
+  <a href="https://github.com/vishaldananjaya?tab=followers">
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/vishaldananjaya?style=for-the-badge&color=2da44e&labelColor=22863a"/>
   </a>
 
-  <a href="[https://youtube.com/@YOUR_CHANNEL](https://youtube.com/@vishalproductionsonline?si=njeeX-jqSAdWMUzK)">
-    <img alt="YouTube Views"
-      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCvAiIX_pUOkFi1A2c0tGjxA?color=%23E1AD0E&labelColor=C79600&style=for-the-badge&logo=eye&label=VIEWS"/>
-  </a>
-
-  <a href="https://github.com/vishaldananjaya">
-    <img alt="GitHub followers"
-      src="https://img.shields.io/github/followers/vishaldananjaya?style=for-the-badge&color=236ad3&labelColor=1155ba"/>
+  <a href="https://github.com/vishalDananjaya?tab=repositories">
+  <img alt="GitHub Projects" src="https://img.shields.io/badge/PROJECTS-0-55960c?style=for-the-badge&labelColor=488207"/>
   </a>
 
   <a href="https://github.com/vishaldananjaya?tab=repositories">
-    <img alt="GitHub stars"
-      src="https://img.shields.io/github/stars/vishaldananjaya?style=for-the-badge&color=55960c&labelColor=488207"/>
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/vishaldananjaya?style=for-the-badge&color=55960c&labelColor=488207"/>
   </a>
 </p>
 
