@@ -44,11 +44,14 @@ I'm a software engineer, web developer, entrepreneur, and UI/UX Designer passion
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/vishalinonline"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://linkedin.com/in/vishalinonline">
+  <img src="https://skillicons.dev/icons?i=linkedin" /></a>
 
-<a href="https://github.com/vishaldananjaya"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://github.com/vishaldananjaya">
+<img src="https://skillicons.dev/icons?i=github" /></a>
 
-<a href="https://instagram.com/vishalonspace"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://instagram.com/vishalonspace">
+<img src="https://skillicons.dev/icons?i=instagram" /></a>
 
 
 </p>
