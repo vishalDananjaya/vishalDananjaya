@@ -26,12 +26,6 @@ I'm a software engineer, web developer, entrepreneur, and UI/UX Designer passion
 
 ---
 
-## 📊 GitHub Stats
-
-![Vishal's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vishaldananjaya&show_icons=true&theme=radical)
-
----
-
 ## 🚀 Current Projects
 
 - 🌐 Website Development Company
