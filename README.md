@@ -1,8 +1,7 @@
 # 🧑‍💻 Vishal Dananjaya
 
-### Web Developer & UI/UX Designer
-
-I'm a software engineer, web developer, entrepreneur, and UI/UX Designer passionate about building digital products and learning new technologies.
+### AI Enthusiastic | Web Developing
+I'm a student who likes to learn about AI and Web Development
 
 <p align="left">
   <a href="https://github.com/vishaldananjaya?tab=followers">
