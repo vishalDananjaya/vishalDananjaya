@@ -20,15 +20,15 @@ I'm a student who likes to learn about AI and Web Development
 ## 🧰 Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,ts,js,react,nextjs,nodejs,spring,mysql,mongodb,linux,git,github,vscode,cloudflare" />
+<img src="https://skillicons.dev/icons?i=js,php,mysql,linux,git,github,vscode,cloudflare" />
 </p>
 
 ---
 
 ## 🚀 Current Projects
 
-- 🌐 Website Development Company
-- 🏠 Real Estate Management Platform
+- 🌐 Web Development
+- 🏠 AI Driven Systems
 - 🛒 Bavana.lk Webservice
 - 🤖 AI-Powered Web Applications
 
