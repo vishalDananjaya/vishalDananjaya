@@ -31,15 +31,6 @@
 
 ---
 
-## 🚀 Current Projects
-
-- 🌐 Web Development
-- 🏠 AI Driven Systems
-- 🛒 Bavana.lk Webservice
-- 🤖 AI-Powered Web Applications
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
