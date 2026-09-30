@@ -1,10 +1,5 @@
 # 🧑‍💻 Vishal Dananjaya
 
-### AI Enthusiastic | Web Developing
-- 🔭 **Currently Working on:** Learning Management System (Sri Lanka) & Web-based projects.
-- ⚙️ **Focusing on:** AI Driven Web & System.
-- 🚀 **Learning:** Software Development, Web Development & Artificial Intelligance.
-- 🎯 **Goal:** To become a professional **AI Developer**.
 
 <p align="left">
   <a href="https://github.com/vishaldananjaya?tab=followers">
@@ -17,6 +12,13 @@
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/vishaldananjaya?style=for-the-badge&color=55960c&labelColor=488207"/>
   </a>
 </p>
+
+---
+
+- 🔭 **Currently Working on:** Learning Management System (Sri Lanka) & Web-based projects.
+- ⚙️ **Focusing on:** AI Driven Web & System.
+- 🚀 **Learning:** Software Development, Web Development & Artificial Intelligance.
+- 🎯 **Goal:** To become a professional **AI Developer**.
 
 ---
 
