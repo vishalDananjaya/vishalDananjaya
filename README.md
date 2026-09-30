@@ -1,7 +1,10 @@
 # 🧑‍💻 Vishal Dananjaya
 
 ### AI Enthusiastic | Web Developing
-I'm a student who likes to learn about AI and Web Development
+- 🔭 **Currently Working on:** Learning Management System (Sri Lanka) & Web-based projects.
+- ⚙️ **Focusing on:** AI Driven Web & System.
+- 🚀 **Learning:** Software Development, Web Development & Artificial Intelligance.
+- 🎯 **Goal:** To become a professional **AI Developer**.
 
 <p align="left">
   <a href="https://github.com/vishaldananjaya?tab=followers">
