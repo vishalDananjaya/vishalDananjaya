@@ -1,6 +1,7 @@
 # 🧑‍💻 Vishal Dananjaya
 
 
+
 <p align="left">
   <a href="https://github.com/vishaldananjaya?tab=followers">
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/vishaldananjaya?style=for-the-badge&color=2da44e&labelColor=22863a"/></a>
