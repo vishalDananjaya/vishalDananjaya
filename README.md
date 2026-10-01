@@ -27,7 +27,7 @@
 ## 🧰 Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,php,mysql,linux,git,github,vscode,cloudflare" />
+<img src="https://skillicons.dev/icons?i=c,html,css,js,php,mysql,linux,git,github,vscode,cloudflare" />
 </p>
 
 ---
