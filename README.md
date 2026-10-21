@@ -20,7 +20,7 @@
 - 🔭 **Currently Working on:** Learning Management System (Sri Lanka) & Web-based projects.
 - ⚙️ **Focusing on:** AI Driven Web & System.
 - 🚀 **Learning:** Software Development, Web Development & Artificial Intelligance.
-- 🎯 **Goal:** To become a professional **AI Developer**.
+- 🎯 **Goal:** To become a professional **AI Engineer**.
 
 ---
 
